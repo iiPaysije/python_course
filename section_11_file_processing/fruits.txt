@@ -1,6 +1,3 @@
-pear
-apple
-orange
-mandarin
-watermelon
-pomegranate
+Tomato
+Cucumber
+Stojan
